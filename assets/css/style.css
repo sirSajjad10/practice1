@@ -1,0 +1,23 @@
+@font-face {
+    font-family: 'ray';
+    src: url('../fonts/Ray-Medium/Ray-Medium.eot');
+    src: url('../fonts/Ray-Medium/Ray-Medium.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/Ray-Medium/Ray-Medium.woff') format('woff'),
+    url('../fonts/Ray-Medium/Ray-Medium.ttf') format('truetype'),
+    url('../fonts/Ray-Medium/Ray-Medium.svg#svgFontName') format('svg');
+}
+
+root {
+    --sh-primary: #831918;
+    --sh-secondry: #fdd5a9;
+    --sh-color: #831918;
+    --sh-secondry: #fdd5a9;
+    --sh-primary: #831918;
+    --sh-secondry: #fdd5a9;
+    --sh-primary: #831918;
+    --sh-secondry: #fdd5a9;
+}
+
+body {
+    font-family: ray;
+}
